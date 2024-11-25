@@ -38,8 +38,8 @@ To view or modify this portfolio locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
-   cd your-portfolio-repo
+   git clone https://github.com/vivekchaurasiya12/Portfolio.git
+   cd Portfolio
 
 ## Usage
 Visit the portfolio at [Live Site URL.](https://vivekchaurasiya12.github.io/Portfolio/)
